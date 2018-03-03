@@ -1,0 +1,102 @@
+
+body  
+{ 
+font-family:arial, verdana, helvetica;  
+color:black; 
+font-size:14px; 
+background-color:#EB82CC;
+} 
+
+h1    
+{ 
+font-family:arial, sans-serif;  
+color:blue;  
+font-size:36px;
+text-align:Center;
+} 
+
+img.center 
+{ 
+display: block;  
+margin-left: auto;  
+margin-right: auto; 
+}
+
+img.left
+{
+display: block;
+margin-left: 0;
+margin-right: auto;
+}
+
+img.floatleft  
+{  
+float: left;  
+margin: 5px;  
+} 
+
+h2
+{ 
+font-family:arial, sans-serif;  
+color:red;  
+font-size:30px;
+text-align:left;
+} 
+h3
+{
+text-align:center;
+}
+hr.headings
+{
+width:30%;
+height:3px;
+margin-left:0;
+}
+
+header.standard
+{
+font-family:arial, verdana, helvetica;  
+color:#F0FF00; 
+font-size:40px; 
+text-align:center;
+font-style:oblique;
+font-weight:bold;
+}
+nav.standard
+{
+font-family:arial, verdana, helvetica;   
+font-size:20px;
+text-align:center;
+font-style:oblique;
+font-weight:bold;
+}
+
+table
+{
+width: 100%;
+}
+
+table, td, th 
+{ 
+ border:1px dotted blue;
+background-color: #CDF2D6;
+text-align: left;
+vertical-align: middle;
+padding:10px; 
+} 
+
+th
+{
+text-align: center;
+color: red;
+}
+
+td.center 
+{ 
+text-align:center; 
+} 
+
+select.aligntop
+{
+vertical-align: top;
+}

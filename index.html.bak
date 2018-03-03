@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+ <head>
+  <title>Welcome</title>
+  <meta charset="utf-8"/>
+  <meta name="Author" content="Benjamin Liston">
+  <meta name="Keywords" content="prizes, cash, paypal, video games, microsoft points, xbox live, playstation">
+  <meta name="Description" content="Learn how to earn cash or prizes by doing simple surveys and offers">
+  <link rel="stylesheet" type="text/css" href="pnc.css"/> 
+ </head>
+
+ <body>
+ 
+ <header class="standard">
+Prizes N Cash
+ <hr/>
+ </header>
+
+ <p>Welcome to my site, chances are if you are here you clicked on a link promising to show you how to earn money, electronics, or the now outdated Microsoft point cards. You will not be earning anything here,this site is to help steer you in the right direction and show you why it's legit. The first thing you need to know is that there is a lot of fake sites and currency generators out there and it can be hard to separate the legit from the scams. I cannot convince you that its real on my own, the best i can do is show you what i have earned and let the site speak for it self.</p>
+
+  Some things you will need:
+  <ul>
+  <li>A legitimate e-mail address</li>
+  <li>Other e-mail addresses to use for offers(to avoid spam in your main e-mail)</li>
+  <li>A physical address, you will get some junk mail from doing this</li>
+  <li>An Internet connected computer with a browser other than Internet Explorer (it is no longer supported)</li>
+  <li>A PayPal account or similar, if you wish to withdraw money.</li>
+  <li>An open mind and some spare time</li>
+  </ul>
+  Some things you will not need:
+  <ul>
+  <li>A credit card, there are pay offers but they are completely optional and recommended for advanced users</li>
+  <li>A phone number, there are some offers that wish for a phone number, i highly advise not giving it out. More on this later.</li>
+  </ul>
+  <br/>
+  Before moving on you might be asking your self, why? Why is this person do this and what do they have to gain. An excellent question and one that everyone should ask when it comes to making money on the Internet, the truth is, in addition to what i get from the offers and surveys I also get money from referring new users and from the offers they complete. It can be an excellent source of additional revenue and is available to everyone. Ready to learn more? 
+  <br/>
+  <a href="howitworks.html"><img src="images/ready.gif" alt ="A picture of prizes with the words I'm ready, click me" class ="center"/></a>
+<br/>
+<br/>
+&#169; Framisoft Web Development
+ </body>
+</html>
